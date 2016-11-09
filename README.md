@@ -2,4 +2,3 @@
 "Data Mining in Action" course materials, Moscow Institute of Physics and Technologies
 
 
-I am VLAD
